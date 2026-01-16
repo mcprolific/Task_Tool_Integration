@@ -31,7 +31,7 @@ const Chat = () => {
       const botMsg = { role: "bot", content: data.reply };
       setMessages(prev => [...prev, botMsg]);
     } catch (err) {
-      setMessages(prev => [...prev, { role: "bot", content: "⚠️ Server error." }]);
+      setMessages(prev => [...prev, { role: "bot", content: "Server error." }]);
     }
   };
 

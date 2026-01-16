@@ -1,5 +1,5 @@
 ## Frontend Page!
-![Frontend Page:](https://github.com/user-attachments/assets/4c133cb7-8b53-4562-842e-870758411930)
+![Frontend Page:](https://github.com/user-attachments/assets/96e4f56b-698c-452f-8a65-867da77f4237)
 
 
 ## Backend Output!

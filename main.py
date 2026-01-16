@@ -30,3 +30,6 @@ def chat(request: ChatRequest):
         config={"configurable": {"thread_id": request.session_id}}
     )
     return {"reply": result["messages"][-1].content}
+
+
+# pip install duckduckgo-search
